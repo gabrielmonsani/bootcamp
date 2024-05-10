@@ -1,0 +1,49 @@
+.main-container {
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+.container {
+    margin: 0 px; /* Adiciona uma margem menor entre as divs */
+    padding: 39px 39px 100px; /* Adiciona um espaçamento interno para a borda */
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+    
+}
+
+.container:first-child {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente o conteúdo da primeira div */
+}
+
+.profile-img {
+    border-radius: 50%; /* Deixa a imagem arredondada */
+    width: 200px; /* Ajuste a largura da imagem conforme necessário */
+    height: 200px; /* Ajuste a altura da imagem conforme necessário */
+    transform: translateY(-25%); /* Centraliza horizontalmente a imagem */
+    top: -10%; /* Move a imagem para cima para que fique um pouco fora da div */
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+    text-align: left;
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -50px; /* Aumenta a margem superior do texto "Olá, eu sou Gabriel" */
+}
+
+h2 {
+    color: grey;
+    text-align: left;
+}
+
+.square {
+    width: 350px; /* Largura da div quadrada */
+    height: 550px; /* Altura da div quadrada */
+    background-color: #0db2c3; /* Cor de fundo da div quadrada */
+}
