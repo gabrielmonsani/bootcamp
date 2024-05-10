@@ -25,7 +25,7 @@
         <p>
             <b>
                 <h2>
-                Olá, meu nome é Gabriel Eduardo Monsani, tenho 18 anos e estou cursando o terceiro período de Engenharia de Software na Faculdade Uniguaçu - FAESI. Atualmente trabalho como Técnico de T.I na empresa Friella.
+                Olá, meu nome é Gabriel Eduardo Monsani, tenho 18 anos e estou cursando o terceiro período de Engenharia de Software na Faculdade Uniguaçu - FAESI. 
                 </h2>
             </b>
         </p>
